@@ -10,6 +10,6 @@ High School
 Elementary
 
 ## My Projects ##
-- [Midterm Lab Task 1:] (Midterm%20Task%20!/README.md)
+- [Midterm Lab Task 1:] (Midterm%20Task%201/README.md)
 - Midterm Lab Task 2:
 
