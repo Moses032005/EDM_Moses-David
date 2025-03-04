@@ -21,4 +21,4 @@ Let's do step by step how to do data cleaning and preparation using Excel.
 ![screenshot](/Midterm%20Task%201/Images/DataCleaning.png)
 ## Here's our Data Model
 # Sample Screenshot
-![screenshot](/Midterm%20Task%201/Images/ERD.ss)
+![screenshot](/Midterm%20Task%201/Images/ERD.ss.png)
