@@ -14,11 +14,11 @@ Let's do step by step how to do data cleaning and preparation using Excel.
 - Perform 3NF
 - Mapped the Normalized Tables as a Physical Data Model
 ## Step 3 BEFORE
-# Sample Screenshot
+ Sample Screenshot
 ![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
 ## Step 4 AFTER
-# Sample Screenshot
+ Sample Screenshot
 ![screenshot](/Midterm%20Task%201/Images/Data%20Cleaning.png)
 ## Here's our Data Model
-# Sample Screenshot
+ Sample Screenshot
 ![screenshot](/Midterm%20Task%201/Images/ERD.ss.png)
