@@ -20,5 +20,5 @@ Let's do step by step how to do data cleaning and preparation using Excel.
 # DATA CLEANING
 ![screenshot](/Midterm%20Task%201/Images/Data%20Cleaning.png)
 ## Here's our Data Model
- # ERD
+ # ENTITY RELATIONSHIP DIAGRAM
 ![screenshot](/Midterm%20Task%201/Images/ERD.ss.png)
