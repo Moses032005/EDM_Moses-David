@@ -15,7 +15,7 @@ Let's do step by step how to do data cleaning and preparation using Excel.
 - Mapped the Normalized Tables as a Physical Data Model
 ## Step 3 BEFORE
 # Sample Screenshot
-![screenshot](/Midterm20%Term20%1images/DataRAW.png)
+![screenshot](/Midterm%20Term%201images/DataRAW.png)
 
 ## Step 4 AFTER
 # Sample Screenshot
