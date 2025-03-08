@@ -11,5 +11,5 @@ Hi I am Moses David, I am BSIS Student with Love for Music.
 
 ## My Projects ##
 - Midterm Lab Task 1:[Data Cleaning and Preparation](Midterm%20Task%201/README.md)
-- Midterm Lab Task 2:[Data Cleaning and Transformation Using Power Query Editor](Midterm%20Task%202/Part%201)
+- Midterm Lab Task 2:[Data Cleaning and Transformation Using Power Query Editor](Midterm%20Task%202/%20Part1)
 
