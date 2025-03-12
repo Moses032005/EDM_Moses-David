@@ -1,6 +1,6 @@
 ## Midterm Lab Task 2 -  Data Cleaning and Transformation Using Power Query Editor
 
-### Step 1 - Cleaning the data using PowerQuery Editor
+### Step 1 - Cleaning the data using Power Query Editor
 - Start by obtaining your instructor's raw data and opening it in Power Query Editor.
 - Add Necessary Columns: To improve the dataset, provide columns such as Min Sal, Max Sal, and Role Type.
 - Split Columns: Divide complex columns like Salary Estimate, Location, and Size into small sections.
