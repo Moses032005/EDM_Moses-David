@@ -13,7 +13,7 @@
 ![screenshot](/Midterm%20Lab%20Task%202/Images/before.PNG)
 
   ## After Cleaning
-  ![screenshot](/Midterm%20Task%201/Images/after.png)
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/after.png)
   
 ## Step 2 - Reshaping and Grouping the Tables
 - Duplicate and reference Unclean DS Jobs to create new queries (Sal By Role Type dup, Sal By Role Size ref, Sal By State ref).
@@ -25,27 +25,20 @@
 - Rename merged column to State Full Name and remove nulls.
 - Check and review Query Dependencies.
 
-  ## Grouped Tables
+  ## Here's our Sample Tables
 
-    **Salary by Role Type Table**
+  **Salary by Role Type Table**
+    ![screenshot](/Midterm%20Lab%20Task%202/Images/salbyroletypedup.png)
 
-    ![screenshot](/Midterm%20Task%201/Images/salbyroletypedup.png)
+  **Salary by Size Table**
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/salbysizeref.png)
 
+  **Salary by Size Role Type Table**
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/salbysizeroletypedup.png)
 
-    **Salary by Size Table**
-
-   ![screenshot](/Midterm%20Task%201/Images/salbysizeref.png)
-
-
-    **Salary by Size Role Type Table**
-
-   ![screenshot](/Midterm%20Task%201/Images/salbysizeroletypedup.png)
-
-
-    **States (Mapping) Table**
-  
-   ![screenshot](/Midterm%20Task%201/Images/state.PNG)
+  **States (Mapping) Table**
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/state.PNG)
 
     
-    **Query Dependecies**
-![screenshot](/Midterm%20Task%201/Images/Screenshot(Q).png)
+  **Query Dependecies**
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/Screenshot(Q).png)
