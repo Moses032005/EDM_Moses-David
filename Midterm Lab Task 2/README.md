@@ -28,17 +28,22 @@
   ## Here's our Sample Tables
 
   **Salary by Role Type Table**
-    ![screenshot](/Midterm%20Lab%20Task%202/Images/salbyroletypedup.png)
+
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/salbyroletypedup.png)
 
   **Salary by Size Table**
+
   ![screenshot](/Midterm%20Lab%20Task%202/Images/salbysizeref.png)
 
   **Salary by Size Role Type Table**
+
   ![screenshot](/Midterm%20Lab%20Task%202/Images/salbysizeroletypedup.png)
 
   **States (Mapping) Table**
+
   ![screenshot](/Midterm%20Lab%20Task%202/Images/state.PNG)
 
     
   **Query Dependecies**
+
   ![screenshot](/Midterm%20Lab%20Task%202/Images/Screenshot(Q).png)
