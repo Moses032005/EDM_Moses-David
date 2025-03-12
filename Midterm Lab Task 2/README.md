@@ -9,10 +9,10 @@
 - To simplify the dataset, remove unnecessary columns such as Company Name ratings and redundant descriptions.
 - Lastly, Save the M Language to a notepad.
   
-  ## Before Cleaning  
+## Before Cleaning  
 ![screenshot](/Midterm%20Lab%20Task%202/Images/before.PNG)
 
-  ## After Cleaning
+## After Cleaning
   ![screenshot](/Midterm%20Lab%20Task%202/Images/after1.png)
   ![screenshot](/Midterm%20Lab%20Task%202/Images/after2.png)
    
