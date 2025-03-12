@@ -10,10 +10,10 @@
 - Save the M Language to a notepad.
   
   ## Before Cleaning  
-![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
+![screenshot](/Midterm%20Task%201/before.PNG)
 
   ## After Cleaning
-  ![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
+  ![screenshot](/Midterm%20Task%201/Images/after.png)
   
 ## Step 2 - Reshaping and Grouping the Tables
 - Duplicate and reference Unclean DS Jobs to create new queries (Sal By Role Type dup, Sal By Role Size ref, Sal By State ref).
@@ -29,23 +29,23 @@
 
     **Salary by Role Type Table**
 
-    ![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
+    ![screenshot](/Midterm%20Task%201/salbyroletypedup.png)
 
 
     **Salary by Size Table**
 
-   ![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
+   ![screenshot](/Midterm%20Task%201/salbysizeref.png)
 
 
     **Salary by Size Role Type Table**
 
-   ![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
+   ![screenshot](/Midterm%20Task%201/salbysizeroletypedup.png)
 
 
-    **Salary by State Table**
+    **States (Mapping) Table**
   
-   ![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
+   ![screenshot](/Midterm%20Task%201/Images/state.PNG)
 
     
-    **States (Mapping) Table**
-![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
+    **Query Dependecies**
+![screenshot](/Midterm%20Task%201/Images/Screenshot (Q).png)
