@@ -46,4 +46,4 @@
     
   **Query Dependecies**
 
-  ![screenshot](/Midterm%20Lab%20Task%202/Images/Screenshot(Q).png)
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/Screenshot%20(Q).png)
