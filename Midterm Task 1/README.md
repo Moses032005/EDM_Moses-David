@@ -9,20 +9,20 @@ Let's do step by step how to do data cleaning and preparation using Excel.
  - Delete NULL values
  - Remove Duplicates
 
- ## Step 2: Normalization of the data
+## Step 2: Normalization of the data
  - Completed 1NF
  - Use 2NF to separate tables
  - Do 3NF
  - Converted the normalized tables into a physical data model
  
-## Step 3: BEFORE
+## Step 3: Before
 # RAW DATA
 ![screenshot](/Midterm%20Task%201/Images/DataRAW.png)
 
-## Step 4: AFTER
+## Step 4: After
 # DATA CLEANING
 ![screenshot](/Midterm%20Task%201/Images/Data%20Cleaning.png)
 
-## Step 5:DATA MODEL
+## Step 5: Data Model
  # ENTITY RELATIONSHIP DIAGRAM
 ![screenshot](/Midterm%20Task%201/Images/ERD.ss.png)
