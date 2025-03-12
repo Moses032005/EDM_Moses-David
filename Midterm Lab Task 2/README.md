@@ -10,7 +10,7 @@
 - Save the M Language to a notepad.
   
   ## Before Cleaning  
-![screenshot](/Midterm%20Task%201/Images/before.PNG)
+![screenshot](/Midterm%20Lab%20Task%202/Images/before.PNG)
 
   ## After Cleaning
   ![screenshot](/Midterm%20Task%201/Images/after.png)
