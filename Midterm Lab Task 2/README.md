@@ -10,7 +10,7 @@
 - Save the M Language to a notepad.
   
   ## Before Cleaning  
-![screenshot](/Midterm%20Task%201/before.PNG)
+![screenshot](/Midterm%20Task%201/Images/before.PNG)
 
   ## After Cleaning
   ![screenshot](/Midterm%20Task%201/Images/after.png)
@@ -29,17 +29,17 @@
 
     **Salary by Role Type Table**
 
-    ![screenshot](/Midterm%20Task%201/salbyroletypedup.png)
+    ![screenshot](/Midterm%20Task%201/Images/salbyroletypedup.png)
 
 
     **Salary by Size Table**
 
-   ![screenshot](/Midterm%20Task%201/salbysizeref.png)
+   ![screenshot](/Midterm%20Task%201/Images/salbysizeref.png)
 
 
     **Salary by Size Role Type Table**
 
-   ![screenshot](/Midterm%20Task%201/salbysizeroletypedup.png)
+   ![screenshot](/Midterm%20Task%201/Images/salbysizeroletypedup.png)
 
 
     **States (Mapping) Table**
