@@ -13,8 +13,9 @@
 ![screenshot](/Midterm%20Lab%20Task%202/Images/before.PNG)
 
   ## After Cleaning
-  ![screenshot](/Midterm%20Lab%20Task%202/Images/after.png)
-  
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/after1.png)
+  ![screenshot](/Midterm%20Lab%20Task%202/Images/after2.png)
+   
 ## Step 2 - Reshaping and Grouping the Tables
 - Duplicate and reference Unclean DS Jobs to create new queries (Sal By Role Type dup, Sal By Role Size ref, Sal By State ref).
 - Select appropriate columns (Role Type, Size, Min Sal, Max Sal).
