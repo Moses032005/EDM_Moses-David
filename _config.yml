@@ -1,7 +1,6 @@
 Title: Moses David Castro Portfolio
 Logo: 
 show_downloads: true
-#theme: jekyll-theme-silverlining
 remote_theme: pages-themes/silverlining@v0.2.0
 plugins:
-theme: jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme # add this line to the plugins list if you already have one
