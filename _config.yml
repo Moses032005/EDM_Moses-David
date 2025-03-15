@@ -1,6 +1,5 @@
-title: Edm Portfolio
-logo: 
-description: Minimal is a theme for GitHub Pages.
+title: EDM Portfolio
+description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-cayman
