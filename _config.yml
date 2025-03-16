@@ -1,6 +1,6 @@
 title: EDM Portfolio
-logo: docs/assets/logo.png.jfif
-description: Merlot is a theme for GitHub Pages.
+logo: assets/logo.png.jfif
+description: Welcome to my Github World
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
