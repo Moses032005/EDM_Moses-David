@@ -14,4 +14,4 @@ Hi everyone! My name is Moses David, and I'm a first-year BSIS (Bachelor of Scie
 ## My Projects ##
 - Midterm Lab Task 1 :[Data Cleaning & Preparation](Midterm%20Task%201/README.md)
 - Midterm Lab Task 2 :[Data Cleaning & Transformation Using Power Query Editor](Midterm%20Lab%20Task%202/README.md)
-- Midterm Lab Task 3: [Creating PIVOT TABLE & DASHBOARD](Midterm%20Lab%20Task%203/README.md)
+- Midterm Lab Task 3: [Creating Pivot Table & Dashboard](Midterm%20Lab%20Task%203/README.md)
