@@ -28,7 +28,7 @@ Make sure to finish them in the sequence indicated.
 
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQL4.png)
 
-‎## Task 5: Create a table named managers with the following fields:
+## Task 5: Create a table named managers with the following fields:
 - ‎manager_id: Unique integer, auto-increment, primary key.‎
 ‎- employee_id: Integer, foreign key referencing employee_id in employees.
 
