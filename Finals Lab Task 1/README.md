@@ -37,3 +37,6 @@ Make sure to finish them in the sequence indicated.
 ## ER Diagram or Relational schema from phpMyAdmin or Workbench
 
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQLERD.png)
+
+[Part1 MySQL Code.docx](https://github.com/user-attachments/files/19725738/Part1.MySQL.Code.docx)
+
