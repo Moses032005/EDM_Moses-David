@@ -10,27 +10,27 @@ Make sure to finish them in the sequence indicated.
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQL1.png)
 
 ## Task 2: Create a table named departments with the following fields:
-‎- department_id: Unique integer, auto-increment, primary key.
-- ‎department_name: String (VARCHAR) with up to 255 characters, not null.
+- department_id: Unique integer, auto-increment, primary key.
+- department_name: String (VARCHAR) with up to 255 characters, not null.
 
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQL2.png)
 ‎
 ## Task 3: Create a table named employee_departments with the following fields:
 - ‎employee_id: Integer, foreign key referencing employee_id in employees,
-‎- ‎department_id: Integer, foreign key referencing department_id in departments.
-‎- composite primary key (employee_id, department_id).
+- department_id: Integer, foreign key referencing department_id in departments.
+-  composite primary key (employee_id, department_id).
 
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQL3.png)
 ‎
 ## Task 4: Create a table named employee_projects with the following fields:
-‎- employee_id: Integer, foreign key referencing employee_id in employees.
-- ‎project name: String (VARCHAR) with up to 255 characters, not null.
+- ‎employee_id: Integer, foreign key referencing employee_id in employees.
+- project name: String (VARCHAR) with up to 255 characters, not null.
 
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQL4.png)
 
 ## Task 5: Create a table named managers with the following fields:
 - ‎manager_id: Unique integer, auto-increment, primary key.‎
-‎- employee_id: Integer, foreign key referencing employee_id in employees.
+- employee_id: Integer, foreign key referencing employee_id in employees.
 
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQL5.png)
 
