@@ -48,5 +48,8 @@ representation of any dependent or weak entities.
 ![P2 3](https://github.com/user-attachments/assets/4ac0156e-e4d1-49d6-82f8-8680f63689e0)
 
 ## Sample of my EER Diagram or Relational schema from phpMyAdmin or Workbench
-![P2 EER](https://github.com/user-attachments/assets/3608e7c1-6c3f-4e42-a0e0-28f9099e9cf4)
+
+![Final Lab Task2](https://github.com/user-attachments/assets/f61a32c3-25bb-49cb-a622-5ac8ccf7f04f)
+
+[Uploading FInal Lab Task 2 SQL.sql…]()
 
