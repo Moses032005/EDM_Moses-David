@@ -40,7 +40,7 @@ Make sure to finish them in the sequence indicated.
 ## Here's my Query Statement with Table Structure
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQL5.png)
 
-## ER Diagram or Relational schema from phpMyAdmin or Workbench
+## EER Diagram or Relational schema from phpMyAdmin or Workbench
 
 ‎![screenshot](/Finals%20Lab%20Task%201/Images/MySQLERD.png)
 
