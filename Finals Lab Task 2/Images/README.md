@@ -51,5 +51,6 @@ representation of any dependent or weak entities.
 
 ![Final Lab Task2](https://github.com/user-attachments/assets/f61a32c3-25bb-49cb-a622-5ac8ccf7f04f)
 
-[Uploading FInal Lab Task 2 SQL.sql…]()
 
+
+[final lab task 2 sql.docx](https://github.com/user-attachments/files/19797300/final.lab.task.2.sql.docx)
