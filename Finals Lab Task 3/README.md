@@ -14,9 +14,6 @@ The following are the tasks that need to be implemented using MySQL statements. 
 
 ## STEP 2: Add a CHECK constraint to ensure that the price of the product must be > 0.
 
-## Here's my Query Statement with Table Structure 
-![screenshot](/Finals%20Lab%20Task%203/Images/P3.2.png)
-
 ## STEP 3: Insert the products that will not violate the check constraint into the products table:
 
 * Product 1: "Laptop", 999.99
@@ -31,9 +28,14 @@ The following are the tasks that need to be implemented using MySQL statements. 
 * Product 10: "Speakers", 9.99
 
 ## Here's my Query Statement with Table Structure 
-![screenshot](/Finals%20Lab%20Task%203/Images/P3.3.png)
+![screenshot](/Finals%20Lab%20Task%203/Images/P3.2.png)
 
 ## STEP 4: Modify the product name field to have a maximum length of 120 characters.
 
 ## Here's my Query Statement with Table Structure 
+![screenshot](/Finals%20Lab%20Task%203/Images/P3.3.png)
+
+## Sample of my EER Diagram or Relational schema from phpMyAdmin or Workbench
 ![screenshot](/Finals%20Lab%20Task%203/Images/P3.EER.png)
+
+![converted_file](https://github.com/user-attachments/assets/305d0fde-9204-47e5-b29e-2e611dacfe88)
