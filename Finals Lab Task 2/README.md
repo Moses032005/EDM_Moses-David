@@ -6,7 +6,7 @@ submissions, and assignments. Identify the primary and foreign keys and ensure p
 representation of any dependent or weak entities.
  In converting the ER diagram, the following are the data types of the attributes:
 
-‎![screenshot](/Finals%20Lab%20Task%202/P2.A.png)
+‎![screenshot](/Finals%20Lab%20Task%202/Images/P2.A.png)
 
 ## STEP 1: Create a table named "Student Table" with the following fields:
 
@@ -15,7 +15,7 @@ representation of any dependent or weak entities.
 
 ## Here's my Query Statement with Table Structure 
 
-‎![screenshot](/Finals%20Lab%20Task%202/P2.1.png)
+‎![screenshot](/Finals%20Lab%20Task%202/Images/P2.1.png)
 
 
 ## STEP 2: Create a table named "Assignment Table" with the following fields:
@@ -28,7 +28,7 @@ representation of any dependent or weak entities.
 
 ## Here's my Query Statement with Table Structure
 
-‎![screenshot](/Finals%20Lab%20Task%202/P2.2.png)
+‎![screenshot](/Finals%20Lab%20Task%202/Images/P2.2.png)
 
 ‎
 ## STEP 3: Create a table named "Submission Table" with the following fields:
@@ -44,11 +44,11 @@ representation of any dependent or weak entities.
 
 ## Here's my Query Statement with Table Structure
 
-‎![screenshot](/Finals%20Lab%20Task%202/P2.3.png)
+‎![screenshot](/Finals%20Lab%20Task%202/Images/P2.3.png)
 
 ## Sample of my EER Diagram or Relational schema from phpMyAdmin or Workbench
 
-‎![screenshot](/Finals%20Lab%20Task%202/P2.EER.png)
+‎![screenshot](/Finals%20Lab%20Task%202/Images/P2.EER.png)
 
 
 [final lab task 2 sql.docx](https://github.com/user-attachments/files/19797300/final.lab.task.2.sql.docx)
