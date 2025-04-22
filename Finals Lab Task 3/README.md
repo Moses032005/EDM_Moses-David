@@ -38,4 +38,5 @@ The following are the tasks that need to be implemented using MySQL statements. 
 ## Sample of my EER Diagram or Relational schema from phpMyAdmin or Workbench
 ![screenshot](/Finals%20Lab%20Task%203/Images/P3.EER.png)
 
-![converted_file](https://github.com/user-attachments/assets/305d0fde-9204-47e5-b29e-2e611dacfe88)
+
+[converted_file.pdf](https://github.com/user-attachments/files/19853810/converted_file.pdf)
