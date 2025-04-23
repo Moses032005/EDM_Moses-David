@@ -10,7 +10,7 @@ representation of any dependent or weak entities.
 
 ## STEP 1: Create a table named "Student Table" with the following fields:
 
-- ‎student table:
+- ‎Student Table:
   * username: String (VARCHAR), up to 50 characters.
 
 ## Here's my Query Statement with Table Structure 
@@ -20,7 +20,7 @@ representation of any dependent or weak entities.
 
 ## STEP 2: Create a table named "Assignment Table" with the following fields:
 
-- assignment table:
+- Assignment Table:
   * shortname: String (VARCHAR), up to 50 characters.
   * due date: Date, cannot be null.
   * url: String (VARCHAR), up to 255 characters, can be null
@@ -33,12 +33,12 @@ representation of any dependent or weak entities.
 ‎
 ## STEP 3: Create a table named "Submission Table" with the following fields:
 
-- submmission table:
-* username: String (VARCHAR), up to 50 characters.
-* shortname: String (VARCHAR), up to 50 characters.
-* version for integer, represents the version of the submission.
-* submit at Date, cannot be null
-* Data: Text.
+- Submission Table:
+ * username: String (VARCHAR), up to 50 characters.
+ * shortname: String (VARCHAR), up to 50 characters.
+ * version for integer, represents the version of the submission.
+ * submit at Date, cannot be null
+ * Data: Text.
 
 # Note: Create the appropriate table relationship and enforce necessary REFERENTIAL INTEGRITY CONSTRAINTS
 
