@@ -1,17 +1,1 @@
-# _config.yml example for GitHub Pages
 
-# Basic settings
-title: "EDM Portfolio"
-description: "Portfolio of Moses David - BSIS Student"
-url: "https://yourusername.github.io" # Replace with your actual URL
-
-# GitHub Pages settings
-theme: jekyll-theme-minimal # or another theme if you prefer
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-
-# Custom settings
-show_repo_link: false # This hides the repository link
