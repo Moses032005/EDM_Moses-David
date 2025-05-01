@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9aa389a5-9ea0-48ac-b7b3-6129332998cf" width="800" />   
+
 
 ### EDM_Moses-David
 Let's discover the unique style and inspiration behind my EDM portfolio.
