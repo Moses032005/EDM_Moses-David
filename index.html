@@ -1,1 +1,522 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>EDM Portfolio</title>
+
+    <style>
+
+        body {
+
+            margin: 0;
+
+            padding: 0;
+
+            font-family: 'Arial', sans-serif;
+
+            overflow-x: hidden;
+
+            background-color: #222;
+
+            color: #fff;
+
+        }
+
+       
+
+        .binary-bg {
+
+            position: fixed;
+
+            top: 0;
+
+            left: 0;
+
+            width: 100%;
+
+            height: 100%;
+
+            z-index: -1;
+
+            display: flex;
+
+            flex-wrap: wrap;
+
+            overflow: hidden;
+
+        }
+
+       
+
+        .binary-digit {
+
+            color: rgba(255, 255, 255, 0.1);
+
+            font-size: 16px;
+
+            font-family: monospace;
+
+            animation: float 10s infinite ease-in-out;
+
+            opacity: 0.7;
+
+            width: 20px;
+
+            text-align: center;
+
+        }
+
+       
+
+        @keyframes float {
+
+            0%, 100% {
+
+                transform: translateY(0);
+
+            }
+
+            50% {
+
+                transform: translateY(-20px);
+
+            }
+
+        }
+
+       
+
+        .container {
+
+            max-width: 1000px;
+
+            margin: 0 auto;
+
+            padding: 20px;
+
+            background-color: rgba(50, 50, 50, 0.85);
+
+            border-radius: 10px;
+
+            margin-top: 30px;
+
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+
+        }
+
+       
+
+        header {
+
+            text-align: center;
+
+            padding: 20px 0;
+
+            border-bottom: 1px solid #ffeb3b;
+
+        }
+
+       
+
+        h1 {
+
+            color: #ffeb3b;
+
+            margin: 0;
+
+        }
+
+       
+
+        .tagline {
+
+            font-style: italic;
+
+            color: #aaa;
+
+        }
+
+       
+
+        section {
+
+            margin: 30px 0;
+
+        }
+
+       
+
+        h2 {
+
+            color: #ffeb3b;
+
+            border-bottom: 1px solid #444;
+
+            padding-bottom: 5px;
+
+        }
+
+       
+
+        .projects {
+
+            display: grid;
+
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+            gap: 20px;
+
+        }
+
+       
+
+        .project {
+
+            background: rgba(60, 60, 60, 0.7);
+
+            padding: 15px;
+
+            border-radius: 5px;
+
+            border-left: 3px solid #ffeb3b;
+
+        }
+
+       
+
+        .project h3 {
+
+            margin-top: 0;
+
+            color: #fff;
+
+        }
+
+       
+
+        .skills {
+
+            display: flex;
+
+            flex-wrap: wrap;
+
+            gap: 10px;
+
+        }
+
+       
+
+        .skill {
+
+            background: #ffeb3b;
+
+            color: #222;
+
+            padding: 5px 10px;
+
+            border-radius: 20px;
+
+            font-size: 14px;
+
+            font-weight: bold;
+
+        }
+
+       
+
+        footer {
+
+            text-align: center;
+
+            padding: 20px;
+
+            border-top: 1px solid #444;
+
+            margin-top: 30px;
+
+            color: #aaa;
+
+        }
+
+       
+
+        a {
+
+            color: #ffeb3b;
+
+            text-decoration: none;
+
+        }
+
+       
+
+        a:hover {
+
+            text-decoration: underline;
+
+        }
+
+       
+
+        .education-list {
+
+            list-style-type: none;
+
+            padding-left: 0;
+
+        }
+
+       
+
+        .education-list li {
+
+            margin-bottom: 10px;
+
+            padding-left: 20px;
+
+            position: relative;
+
+        }
+
+       
+
+        .education-list li:before {
+
+            content: "•";
+
+            color: #ffeb3b;
+
+            font-size: 20px;
+
+            position: absolute;
+
+            left: 0;
+
+            top: -2px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="binary-bg" id="binaryBg"></div>
+
+   
+
+    <div class="container">
+
+        <header>
+
+            <h1>EDM Portfolio</h1>
+
+            <p class="tagline">EDM_Moses-David | Moses032005</p>
+
+        </header>
+
+       
+
+        <section id="about">
+
+            <h2>About Me</h2>
+
+            <p>Hi everyone! My name is Moses David, and I'm a first-year BSIS (Bachelor of Science in Information Systems) student. I've always been fascinated by technology, and I'm excited to dive into the world of systems, programming, and innovation. Beyond the screen and code, there's another passion that keeps me inspired - music.</p>
+
+        </section>
+
+      
+
+        <section id="education">
+
+            <h2>Education</h2>
+
+            <ul class="education-list">
+
+                <li><strong>College:</strong> Currently in City College of Angeles</li>
+
+                <li><strong>High School:</strong> Eastern Porac National High School</li>
+
+                <li><strong>Elementary:</strong> Manibaug Paralaya Elementary School</li>
+
+            </ul>
+
+        </section>
+
+ 
+
+        <section id="projects">
+
+            <h2>Featured Projects</h2>
+
+            <div class="projects">
+
+                <div class="project">
+
+                    <h3>Midterm Lab Task 1</h3>
+
+                    <p>Data Cleaning & Preparation</p>
+
+                    <a href="https://github.com/Moses032005/Midterm-Lab-Task-1" target="_blank">View on GitHub</a>
+
+                </div>
+
+                <div class="project">
+
+                    <h3>Midterm Lab Task 2</h3>
+
+                    <p>Data Cleaning & Transformation Using Power Query Editor</p>
+
+                    <a href="https://github.com/Moses032005/Midterm-Lab-Task-2" target="_blank">View on GitHub</a>
+
+                </div>
+
+                <div class="project">
+
+                    <h3>Midterm Lab Task 3</h3>
+
+                    <p>Creating Pivot Table & Dashboard</p>
+
+                    <a href="https://github.com/Moses032005/Midterm-Lab-Task-3" target="_blank">View on GitHub</a>
+
+                </div>
+
+                <div class="project">
+
+                    <h3>Finals Lab Task 1</h3>
+
+                    <p>Creating Database Using MySQL Workbench</p>
+
+                    <a href="https://github.com/Moses032005/Finals-Lab-Task-1" target="_blank">View on GitHub</a>
+
+                </div>
+
+                <div class="project">
+
+                    <h3>Finals Lab Task 2</h3>
+
+                    <p>Transform ER into Relational Tables</p>
+
+                    <a href="https://github.com/Moses032005/Finals-Lab-Task-2" target="_blank">View on GitHub</a>
+
+                </div>
+
+                <div class="project">
+
+                    <h3>Finals Lab Task 3</h3>
+
+                    <p>Table Manipulation</p>
+
+                    <a href="https://github.com/Moses032005/Finals-Lab-Task-3" target="_blank">View on GitHub</a>
+
+                </div>
+
+                <div class="project">
+
+                    <h3>Finals Lab Task 3.1</h3>
+
+                    <p>Using MySQL Clause</p>
+
+                    <a href="https://github.com/Moses032005/Finals-Lab-Task-3.1" target="_blank">View on GitHub</a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+       
+
+        <section id="skills">
+
+            <h2>Technical Skills</h2>
+
+            <div class="skills">
+
+                <span class="skill">Data Analysis</span>
+
+                <span class="skill">Power Query</span>
+
+                <span class="skill">Excel</span>
+
+                <span class="skill">MySQL</span>
+
+                <span class="skill">Database Design</span>
+
+                <span class="skill">ER Modeling</span>
+
+                <span class="skill">SQL Queries</span>
+
+                <span class="skill">HTML/CSS</span>
+
+            </div>
+
+        </section>
+
+       
+
+        <footer>
+
+            <p>Find me on <a href="https://github.com/Moses032005" target="_blank">GitHub</a> or connect via <a href="mailto:mosesdavid@example.com">email</a></p>
+
+        </footer>
+
+    </div>
+
+   
+
+    <script>
+
+        // Generate binary background
+
+        const binaryBg = document.getElementById('binaryBg');
+
+        const digits = ['0', '1'];
+
+        const colors = ['#ffeb3b', '#9e9e9e', '#757575', '#ffc107'];
+
+       
+
+        // Calculate how many digits we need to fill the screen
+
+        const digitSize = 20; // px
+
+        const width = Math.ceil(window.innerWidth / digitSize);
+
+        const height = Math.ceil(window.innerHeight / digitSize);
+
+        const totalDigits = width * height;
+
+       
+
+        // Create digits with random animation delays
+
+        for (let i = 0; i < totalDigits; i++) {
+
+            const digit = document.createElement('div');
+
+            digit.className = 'binary-digit';
+
+            digit.textContent = Math.random() > 0.5 ? '1' : '0';
+
+            digit.style.animationDelay = `${Math.random() * 10}s`;
+
+            digit.style.color = colors[Math.floor(Math.random() * colors.length)];
+
+            binaryBg.appendChild(digit);
+
+        }
+
+    </script>
+
+</body>
+
+</html>
 
