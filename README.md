@@ -23,3 +23,4 @@ Hi everyone! My name is Moses David, and I'm a first-year BSIS (Bachelor of Scie
 - Finals Lab Task 3: [Table Manipulation](Finals%20Lab%20Task%203/eREADME.md)
 - Finals Lab Task 3.1: [Using MYSQL Clause ](Finals%20Lab%20Task%203.1/README.md)
 - Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](Finals%20Lab%20Task%205/README.md)
+- Finals Lab Task 6: [MongoDBCRUD](Finals%20Lab%20Task%206/README.md)
